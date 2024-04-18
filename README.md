@@ -6,8 +6,6 @@ The linear regression model provides a sloped straight line representing the rel
 
 Linear Regression in Machine Learning
 Mathematically, we can represent a linear regression as:
-ADVERTISEMENT
-
 
 y= a0+a1x+ ε
 Here,
@@ -23,9 +21,6 @@ The values for x and y variables are training datasets for Linear Regression mod
 Types of Linear Regression
 Linear regression can be further divided into two types of the algorithm:
 
-ADVERTISEMENT
-
-ADVERTISEMENT
 
 Simple Linear Regression:
 If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
@@ -42,9 +37,6 @@ If the dependent variable decreases on the Y-axis and independent variable incre
 Linear Regression in Machine Learning
 Finding the best fit line:
 When working with linear regression, our main goal is to find the best fit line that means the error between predicted values and actual values should be minimized. The best fit line will have the least error.
-ADVERTISEMENT
-
-ADVERTISEMENT
 
 
 The different values for weights or the coefficient of lines (a0, a1) gives a different line of regression, so we need to calculate the best values for a0 and a1 to find the best fit line, so to calculate this we use cost function.
@@ -72,9 +64,6 @@ A regression model uses gradient descent to update the coefficients of the line 
 It is done by a random selection of values of coefficient and then iteratively update the values to reach the minimum cost function.
 Model Performance:
 The Goodness of fit determines how the line of regression fits the set of observations. The process of finding the best model out of various models is called optimization. It can be achieved by below method:
-ADVERTISEMENT
-
-ADVERTISEMENT
 
 
 1. R-squared method:
@@ -85,7 +74,6 @@ The high value of R-square determines the less difference between the predicted 
 It is also called a coefficient of determination, or coefficient of multiple determination for multiple regression.
 It can be calculated from the below formula:
 Linear Regression in Machine Learning
-ADVERTISEMENT
 
 Assumptions of Linear Regression
 Below are some important assumptions of Linear Regression. These are some formal checks while building a Linear Regression model, which ensures to get the best possible result from the given dataset.
